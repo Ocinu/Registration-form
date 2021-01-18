@@ -1,0 +1,39 @@
+body{
+    background-color:white;
+    width: 100vw;
+    height: 100vh;
+}
+
+#first_form{
+    position: relative;
+    top: 5%;
+    width: 80%;
+    padding: 1% 0;
+    margin: auto;
+    background-color: rgb(231, 230, 230);
+    box-shadow: 0 0 10px black;
+
+}
+
+input{
+    outline: none !important;
+    border: none !important;
+    background-color: rgb(231, 230, 230) !important;
+    border-bottom: 2px solid gray !important;
+}
+
+select{
+    outline: none !important;
+    border: none !important;
+    background-color: rgb(231, 230, 230) !important;
+    border-bottom: 2px solid gray !important;
+}
+
+button{
+    float: right;
+}
+
+span{
+    border: 0 !important;
+    background-color:  rgb(231, 230, 230) !important;
+}
